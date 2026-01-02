@@ -3,6 +3,8 @@
 ## Descripción
 BIO-CEL INTERACTIVE es un sistema de estudio interactivo en terminal para el aprendizaje de Biología Celular. El programa está basado en un temario completo de 20 temas que cubren los fundamentos de la biología celular, desde la estructura básica de células eucariotas y procariotas hasta procesos complejos como la mitosis, meiosis y señalización celular.
 
+## SE ACEPTAN ADICION DE PREGUNTAS AL PROGRAMA Y ACTUALIZACIONES O CORRECCIONES QUE SE CONSIDEREN IMPORTANTES!!
+
 ## Características
 - Temario completo: 20 temas organizados con conceptos clave
 - Sistema de evaluación: Tests por tema con preguntas de opción múltiple
